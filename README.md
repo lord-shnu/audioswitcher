@@ -13,4 +13,4 @@ Paste into box:
 **export SUDO_ASKPASS="/usr/local/bin/askpass_gui.sh" <br>
 /usr/bin/sudo -A /usr/bin/killall coreaudiod** <br>
 
-Save it, name whatever you want. Use spotlight/raycast/alfred/launchpad(r.i.p.) to launch whenever you need to reset coreaudiod.
+Save it, name whatever you want. Use spotlight/raycast/alfred/launchpad(r.i.p.) to launch whenever you need to reset coreaudiod. (requires password on every restart)
